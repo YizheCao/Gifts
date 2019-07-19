@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gifts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gifts_jar</output-path>
+    <root id="archive" name="Gifts.jar">
+      <element id="module-output" name="Gifts" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jar/jmf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jar/QRCode.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
